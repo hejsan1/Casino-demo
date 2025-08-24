@@ -1,2 +1,24 @@
 # Demo Casinospel
-En enkel mobilvänlig webbplats byggd i HTML/JS som visar demo-versioner av casinospel (iframes) och länkar till licensierade operatörer.
+
+En enkel HTML/JS-webbplats som visar demo-versioner av casinospel via iframes och länkar till licensierade operatörer.  
+Projektet är mobilanpassat och använder en `games.json`-fil för att lägga till nya spel.
+
+## Demo
+👉 [Live-version på GitHub Pages](https://dittnamn.github.io/casino-demo/)
+
+## Funktioner
+- Lista & sök bland spel
+- Spela demo direkt i webbläsaren
+- Affiliate-knapp "Spela på riktigt"
+- Åldersgrind (18+)
+
+## Struktur
+- `index.html` – huvudsida med layout och logik
+- `games.json` – speldata (titel, leverantör, demo-url, affiliate-url)
+- `assets/` – ev. bilder och ikoner
+
+## Viktigt
+- 18+  
+- Spela ansvarsfullt  
+- Endast licensierade operatörer får länkas.  
+- Detta repo är för utbildningssyfte.
