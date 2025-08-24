@@ -1,0 +1,2 @@
+# Demo Casinospel
+En enkel mobilvänlig webbplats byggd i HTML/JS som visar demo-versioner av casinospel (iframes) och länkar till licensierade operatörer.
